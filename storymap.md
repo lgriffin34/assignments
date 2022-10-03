@@ -1,9 +1,9 @@
-Location: 2101 S College Ave, Philadelphia, PA 19121
+Shofuso Japanese House and Garden 
+Location: Horticultural and Lansdowne Drs., Philadelphia, PA 19131
 
-Headline: Girard College: Inspiration for Arctic Explorers
+Headline: Shofuso Japanese House and Garden: A Cultural Space for Reflection, Relaxation, and Remembrance
 
-Content box: Girard College was founded in 1833 as a residential school to serve "poor, white, male" orphans. However, the reason I'm interested in it is because Arctic explorer [Elisha Kent Kane](https://en.wikipedia.org/wiki/Elisha_Kent_Kane) described the first iceberg he ever saw as "In shape an oblong cube, and about twice as large as Girard College."
+Content: Shofuso Japanese House and Garden is a traditional 17th century style Japanese guesthouse surrounded by three different styles of Japanese garden. After being on display for an exhibit at the MoMA, it moved to Fairmount Park in 1958. It is a space to relax and take in the view, learn more about Japanese architecture and history, and to participate in cultural events and festivals year-round. I also work here! Come visit me, and I will let you in for free. It's a beautiful place, and since moving to Philadelphia a little over a year ago this space has helped me create a community. 
 
-Media: ![Girard_College_for_orphans,_at_Philadelphia,_Pa _-_on_stone_by_Jas _Queen_;_P S _Duval,_Lith _Phila _LCCN2010651261](https://user-images.githubusercontent.com/15270811/193667433-7a6dbea4-3589-41ba-866c-045046fec441.jpg)
-
-Credits: Image - Girard College for orphans, at Philadelphia, Pa. / on stone by Jas. Queen ; P.S. Duval, Lith. Phila.
+![IMG_5473](https://user-images.githubusercontent.com/111811750/193698679-96492a64-24d4-4521-9021-29e05d74ecf8.jpg)
+Shofuso Japanese House and Garden featuring the weeping cherry tree. Photo credit to Lauren Griffin. 
